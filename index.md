@@ -14,3 +14,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# CheckList
+
+- [X] Aprender GitHub
+- [ ] Sacar partido
+- [ ] Introduce myself to the world
